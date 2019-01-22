@@ -33,3 +33,6 @@ a:visited {
 a:active {
   text-decoration: none;
 }
+i.fa {
+	font-size: 3em;
+}
