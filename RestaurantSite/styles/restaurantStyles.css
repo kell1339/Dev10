@@ -1,0 +1,35 @@
+header, footer {
+	background-color: #e27d60;
+	color: #fff;
+	height: 150px;
+	text-align: center;
+	padding: 40px 10px 20px 10px;
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 3em;
+}
+nav {
+	border-top: thin #5b7d87 solid;
+	border-bottom: thin #5b7d87 solid;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	font-family: monospace;
+	font-weight: normal;
+	background-color: #e8a87c;
+}
+nav .btn {
+	background-color: #5b7d87;
+	color: #fff; 
+}
+nav .btn-link:hover {
+	font-weight: bold;
+	color: #fff;
+}
+a:visited {
+	color: #e27d60;
+}
+a:active {
+  text-decoration: none;
+}
